@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Javiera Angulo
+Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Soy Javiera Angulo
 ======================================================================================================================================
 
 Estudiante
@@ -6,8 +6,8 @@ Estudiante
 
 🎓 Actualmente curso mi tercer año de Ingeniería en Informática en INACAP, apasionada por la tecnología, el desarrollo de software y las soluciones digitales que impactan positivamente en el mundo real.
 
-*   🌍  I'm based in Santiago, Chile
-*   ✉️  You can contact me at [javiera.angulo2005@gmail.com](mailto:javiera.angulo2005@gmail.com)
+*   🌍  Soy de Santiago, Chile
+*   ✉️  Puedes Contactarme en: [javiera.angulo2005@gmail.com](mailto:javiera.angulo2005@gmail.com)
 
   ### Skills 
 <p align="left">
