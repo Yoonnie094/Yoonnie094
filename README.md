@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Javiera Angulo Barraza</h1>
 <h3 align="center">A passionate developer student from Chile</h3>
 
+- 🔭 I’m currently working on **Yoonnie's Handmade**
+
+- 🌱 I’m currently learning **Angular**
+
 - 📫 How to reach me **javiera.angulo2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
