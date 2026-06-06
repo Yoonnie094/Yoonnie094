@@ -53,16 +53,16 @@ Soy estudiante de **Ingeniería en Informática** orientada al desarrollo Full-S
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yoonnie094&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=9b5de5&icon_color=7b2cbf&text_color=e0aaff" alt="Estadísticas Generales" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoonnie094&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=9b5de5&text_color=e0aaff" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yoonnie094&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas Generales" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoonnie094&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" width="48%" />
 </p>
 
 ---
 
-### 🎵 Escuchando Ahora
+### 🎵 Escuchando Ahora en Spotify
 
 <p align="center">
-  <img src="https://novatorem-spotify-readme.vercel.app/api/run?Header=Escuchando%20en%20Spotify&Listening=Escuchando%20ahora%20mismo...&Finished=Última%20canción%20reproducida:&Stopped=En%20pausa&theme=natty" alt="Spotify Now Playing" width="400px"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=Yoonnie094&cover_image=true&theme=dark&bar_color=7b2cbf&bar_color_cover=false" alt="Spotify" width="400px"/>
 </p>
 
 ---
