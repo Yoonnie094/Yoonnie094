@@ -1,72 +1,344 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=200&section=header&text=¡Hola,%20soy%20Javiera%20Angulo!%20👋&fontSize=40&animation=fadeIn&fontColor=ffffff" alt="Banner de Bienvenida" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Javiera%20Angulo&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Inform%C3%A1tica%20%7C%20IA&descAlignY=60&descSize=18&color=0:4C1D95,50:7C3AED,100:C084FC" width="100%" alt="Header"/>
+
+💜 Estudiante de Ingeniería en Informática · Desarrolladora Full-Stack · Soporte TI
+
+<p>
+  <a href="https://www.linkedin.com/in/javieraangulo/">
+    <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:javiera.angulo2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/>
+  </a>
+  <a href="https://github.com/Yoonnie094">
+    <img src="https://img.shields.io/badge/GitHub-581C87?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+  </a>
 </p>
 
-<p align="center">
-  <strong>Computer Engineering Student @ Inacap Santiago Sur | Full-Stack Developer | AI Enthusiast</strong>
+</div>
+
+✦ Sobre mí
+
+Construir soluciones, aprender constantemente y convertir problemas en oportunidades. 💜
+
+Soy estudiante de cuarto año de Ingeniería en Informática y Técnico de Nivel Superior Analista Programador titulado, con experiencia práctica en desarrollo Full-Stack, integración de soluciones con Inteligencia Artificial y soporte TI.
+
+Me interesa desarrollar software útil, organizado y orientado a las necesidades reales de los usuarios, combinando pensamiento analítico, buenas prácticas y una visión enfocada en la optimización de procesos.
+
+🎯 Actualmente: busco desarrollarme profesionalmente en el área de desarrollo de software.
+
+💼 Experiencia
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+💻 Yoonnie's Solutions
+
+Técnica de Soporte TI y Mantenimiento de Sistemas
+Ene 2026 – Actualidad
+
+Diagnóstico de hardware y software.
+
+Mantenimiento preventivo y correctivo.
+
+Instalación de Linux y Windows.
+
+Actualización de SSD y RAM.
+
+Gestión de diagnóstico, cotización y atención de usuarios.
+
+100% de resolución en los casos atendidos.
+
+</td>
+<td width="50%" valign="top">
+
+🧑‍💻 Alpha Docere SpA
+
+Práctica Técnica de Analista Programador
+Mar 2026 – Jun 2026
+
+Desarrollo e integración de módulos de software.
+
+Seguimiento de tareas con Trello y Miro.
+
+Trabajo colaborativo remoto mediante Discord.
+
+Cumplimiento de 360 horas de práctica técnica.
+
+Entrega de requerimientos dentro de plazo.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+👩‍🏫 Formando Chile
+
+Tutora Académica
+Jul 2025 – Dic 2025
+
+Tutorías de programación y matemáticas.
+
+Lógica algorítmica y estructuras de control.
+
+Más de 20 guías pedagógicas creadas.
+
+Más de 30 estudiantes por semestre.
+
+Tasa de aprobación superior al 85%.
+
+</td>
+<td width="50%" valign="top">
+
+🧩 Áreas de interés
+
+Desarrollo Web Full-Stack
+
+Inteligencia Artificial
+
+APIs RESTful
+
+Automatización
+
+Bases de datos
+
+Cloud & despliegues
+
+Soporte y mantenimiento TI
+
+</td>
+</tr>
+</table>
+
+🛠️ Stack Tecnológico
+
+💜 Lenguajes
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-7C3AED?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-8B5CF6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-A855F7?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-9333EA?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-6D28D9?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-581C87?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
-<p align="center">
-  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-Yoonnie094-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://instagram.com/yoonnie.solutions"><img src="https://img.shields.io/badge/Instagram-yoonnie.solutions-9b5de5?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+🎨 Frontend
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-7E22CE?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-6D28D9?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-A855F7?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-8B5CF6?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-581C87?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
 
----
+⚙️ Backend · Database · Cloud
 
-### 💫 Sobre Mí
-
-Soy estudiante de **Ingeniería en Informática** orientada al desarrollo Full-Stack, la gestión de datos y la implementación de Inteligencia Artificial. Me motiva construir aplicaciones robustas, automatizar flujos de trabajo y resolver problemas complejos mediante código limpio.
-
-*   🎓 **Educación:** Cursando Ingeniería en Informática en Inacap Santiago Sur.
-*   💡 **Foco Actual:** Diseño de agentes inteligentes, desarrollo de dashboards financieros y arquitectura web moderna.
-*   🛠️ **Emprendimiento:** Fundadora de **Yoonnie's Solutions**, brindando soporte, diagnóstico avanzado de hardware y optimización de sistemas.
-*   💃 **Hobbies:** Encuentro mi balance ideal y recargo energía creativa a través de la danza.
-
----
-
-### 🛠️ Mi Stack Tecnológico
-
-| Categoría | Tecnologías y Herramientas |
-| :--- | :--- |
-| **Lenguajes** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) |
-| **Frontend & Frameworks** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Bases de Datos & Backend** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white) |
-| **Entornos de Desarrollo (IDEs)** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) |
-| **Certificaciones & Cloud** | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) *(Azure AI Fundamentals Certified)* |
-
----
-
-### 📁 Proyectos Destacados
-
-> [!TIP]
-> Échale un vistazo a algunos de mis desarrollos más recientes:
-
-*   **🤖 Intelligent Financial Agent**
-    *   *Descripción:* Agente financiero inteligente full-stack con capacidades de IA, integrado con Supabase y Groq Cloud. Desarrollado de manera individual para el evento *Zero to Agent*.
-    *   *Stack:* Next.js, Supabase, Groq API.
-*   **🍳 Chef AI**
-    *   *Descripción:* Generador de recetas impulsado por IA con una particular estética de libro antiguo y adaptado con una personalidad lingüística marcadamente chilena.
-    *   *Stack:* Next.js, AI APIs.
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yoonnie094&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas Generales" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoonnie094&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" width="48%" />
+<p>
+<img src="https://img.shields.io/badge/Node.js-6D28D9?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-7C3AED?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-9333EA?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-A855F7?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-581C87?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-7E22CE?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-8B5CF6?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-4C1D95?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
----
+🤖 IA · Desarrollo · Herramientas
 
-### 🎵 Escuchando Ahora en Spotify
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=Yoonnie094&cover_image=true&theme=dark&bar_color=7b2cbf&bar_color_cover=false" alt="Spotify" width="400px"/>
+<p>
+<img src="https://img.shields.io/badge/LLMs_&_APIs_de_IA-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-9333EA?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-A855F7?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-581C87?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-6D28D9?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-8B5CF6?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-7E22CE?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
----
+🌟 Proyecto Destacado
+
+<div align="center">
+
+💜 FinanzIA
+
+Plataforma web de gestión y control financiero para microempresarios,
+asistida mediante Inteligencia Artificial.
+
+<table>
+<tr>
+<td>
+
+🚀 Stack
+
+Next.js React Tailwind CSS
+Supabase PostgreSQL
+Groq Cloud Gemini API
+
+</td>
+<td>
+
+✨ Funcionalidades
+
+🤖 Análisis inteligente de transacciones
+📊 Métricas y estadísticas financieras
+⚡ Información en tiempo real
+🧠 Integración de IA
+📱 Diseño responsivo
+
+</td>
+</tr>
+</table>
+
+</div>
+
+🎓 Formación
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+🎓 Ingeniería en Informática
+
+INACAP · Santiago Sur
+
+2023 – Actualidad
+
+Estudiante
+
+</td>
+<td align="center" width="50%">
+
+💻 Técnico de Nivel Superior Analista Programador
+
+INACAP · Santiago Sur
+
+2025 – 2026
+
+Titulado
+
+</td>
+</tr>
+</table>
+
+🏆 Certificaciones & Especializaciones
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Yoonnie094/count.svg" alt="Contador de Visitas" />
+
+
+
+Formación
+
+Institución
+
+Año
+
+🤖
+
+Azure AI Fundamentals (AI-900)
+
+Microsoft
+
+2024
+
+💜
+
+Soporte Computacional
+
+INACAP
+
+2024
+
+💻
+
+Desarrollo de Aplicaciones Básicas
+
+INACAP
+
+2024
+
+🚀
+
+Desarrollador Full Stack
+
+INACAP
+
+2025
+
+🗄️
+
+Diseño y Gestión de Base de Datos
+
+INACAP
+
+2025
+
+🔄
+
+Diseño Ágil de Sistemas
+
+INACAP
+
+2025
+
 </p>
+
+📊 Competencias
+
+JavaScript                  ████████████████████  Avanzado
+HTML / CSS                  ████████████████████  Avanzado
+Tailwind CSS                ████████████████████  Avanzado
+Git / GitHub                 ████████████████████  Avanzado
+
+React                        ███████████████░░░░░  Intermedio
+Next.js                      ███████████████░░░░░  Intermedio
+TypeScript                   ███████████████░░░░░  Intermedio
+Python                       ███████████████░░░░░  Intermedio
+PHP                          ███████████████░░░░░  Intermedio
+PostgreSQL / MySQL           ███████████████░░░░░  Intermedio
+Supabase / Prisma             ███████████████░░░░░  Intermedio
+APIs RESTful                 ███████████████░░░░░  Intermedio
+LLMs / APIs de IA            ███████████████░░░░░  Intermedio
+
+💡 Fortalezas
+
+<p align="center">
+
+🔎 Atención al detalle · 🧠 Pensamiento analítico · 📋 Planificación
+🤝 Compromiso · 🛡️ Confiabilidad · ✅ Responsabilidad
+🧩 Resolución de problemas · 📚 Aprendizaje continuo
+
+</p>
+
+🌎 Idiomas
+
+<div align="center">
+
+🇨🇱 Español — Nativo
+🇬🇧 Inglés — Intermedio
+
+</div>
+
+📈 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yoonnie094&show_icons=true&hide_border=true&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF&bg_color=0D0B14" alt="GitHub Stats"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoonnie094&layout=compact&hide_border=true&title_color=C084FC&text_color=E9D5FF&bg_color=0D0B14" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+💜 Gracias por visitar mi perfil
+
+Siempre aprendiendo · Siempre creando · Siempre mejorando
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4C1D95,50:7C3AED,100:C084FC" width="100%" alt="Footer"/>
+
+</div>
